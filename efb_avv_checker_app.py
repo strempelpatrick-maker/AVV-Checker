@@ -24,7 +24,7 @@ from streamlit_folium import st_folium
 
 DB_FILENAME = "efb_avv.db"
 LOGO_FILENAME = "logo.png"
-BRAND_NAME = "BioCycling"
+BRAND_NAME = ""
 APP_TITLE = "EfB-Check: AVV je Standort"
 
 
